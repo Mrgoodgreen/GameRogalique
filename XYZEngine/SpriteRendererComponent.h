@@ -22,6 +22,8 @@ namespace XYZEngine
 
 		void FlipX(bool flip);
 		void FlipY(bool flip);
+
+		Vector2Df GetScale() const { return scale; }
 	private:
 		Vector2Df scale;
 		sf::Sprite* sprite;

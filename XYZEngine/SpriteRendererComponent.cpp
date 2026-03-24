@@ -22,10 +22,6 @@ namespace XYZEngine
 
 	void SpriteRendererComponent::Update(float deltaTime)
 	{
-
-	}
-	void SpriteRendererComponent::Render()
-	{
 		if (sprite != nullptr)
 		{
 			sprite->setPosition(Convert<sf::Vector2f, Vector2Df>(transform->GetWorldPosition()));
@@ -33,6 +29,12 @@ namespace XYZEngine
 
 			auto transformScale = Convert<sf::Vector2f, Vector2Df>(transform->GetWorldScale());
 			sprite->setScale({ scale.x * transformScale.x, scale.y * transformScale.y });
+		}
+	}
+	void SpriteRendererComponent::Render()
+	{
+		if (sprite != nullptr)
+		{
 			RenderSystem::Instance()->Render(*sprite);
 		}
 	}

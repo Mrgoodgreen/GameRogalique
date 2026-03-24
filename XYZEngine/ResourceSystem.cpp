@@ -113,10 +113,44 @@ namespace XYZEngine
 		textureMaps.erase(textureMap);
 	}
 
+	void ResourceSystem::LoadSoundBuffer(const std::string& name, const std::string& sourcePath)
+	{
+		if (soundBuffers.find(name) != soundBuffers.end())
+		{
+			return;
+		}
+
+		sf::SoundBuffer* newSoundBuffer = new sf::SoundBuffer();
+		if (newSoundBuffer->loadFromFile(sourcePath))
+		{
+			soundBuffers.emplace(name, newSoundBuffer);
+		}
+	}
+	const sf::SoundBuffer* ResourceSystem::GetSoundBufferShared(const std::string& name) const
+	{
+		auto it = soundBuffers.find(name);
+		if (it != soundBuffers.end())
+		{
+			return it->second;
+		}
+		return nullptr;
+	}
+	void ResourceSystem::DeleteSharedSoundBuffer(const std::string& name)
+	{
+		auto it = soundBuffers.find(name);
+		if (it != soundBuffers.end())
+		{
+			sf::SoundBuffer* buffer = it->second;
+			soundBuffers.erase(it);
+			delete buffer;
+		}
+	}
+
 	void ResourceSystem::Clear()
 	{
 		DeleteAllTextures();
 		DeleteAllTextureMaps();
+		DeleteAllSoundBuffers();
 	}
 
 	void ResourceSystem::DeleteAllTextures()
@@ -145,6 +179,21 @@ namespace XYZEngine
 		for (const auto& key : keysToDelete)
 		{
 			DeleteSharedTextureMap(key);
+		}
+	}
+
+	void ResourceSystem::DeleteAllSoundBuffers()
+	{
+		std::vector<std::string> keysToDelete;
+
+		for (const auto& pair : soundBuffers)
+		{
+			keysToDelete.push_back(pair.first);
+		}
+
+		for (const auto& key : keysToDelete)
+		{
+			DeleteSharedSoundBuffer(key);
 		}
 	}
 }

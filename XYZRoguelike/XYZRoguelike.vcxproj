@@ -165,6 +165,9 @@
     <ClCompile Include="BlockFactory.cpp" />
     <ClCompile Include="Bonus.cpp" />
     <ClCompile Include="DeveloperLevel.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="EnemyAIComponent.cpp" />
+    <ClCompile Include="Floor.cpp" />
     <ClCompile Include="GameObject.cpp" />
     <ClCompile Include="GameState.cpp" />
     <ClCompile Include="GameStateData.cpp" />
@@ -172,6 +175,7 @@
     <ClCompile Include="LevelLoader.cpp" />
     <ClCompile Include="Platform.cpp" />
     <ClCompile Include="Player.cpp" />
+    <ClCompile Include="PlayerMovementComponent.cpp" />
     <ClCompile Include="Sprite.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="GameMain.cpp" />
@@ -183,6 +187,7 @@
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="Text.cpp" />
     <ClCompile Include="ThreeHitBlock.cpp" />
+    <ClCompile Include="Wall.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Application.h" />
@@ -191,6 +196,9 @@
     <ClInclude Include="BlockFactory.h" />
     <ClInclude Include="Bonus.h" />
     <ClInclude Include="DeveloperLevel.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="EnemyAIComponent.h" />
+    <ClInclude Include="Floor.h" />
     <ClInclude Include="GameObject.h" />
     <ClInclude Include="GameState.h" />
     <ClInclude Include="GameStateData.h" />
@@ -201,6 +209,7 @@
     <ClInclude Include="LevelLoader.h" />
     <ClInclude Include="Platform.h" />
     <ClInclude Include="Player.h" />
+    <ClInclude Include="PlayerMovementComponent.h" />
     <ClInclude Include="randomizer.h" />
     <ClInclude Include="Sprite.h" />
     <ClInclude Include="Game.h" />
@@ -214,6 +223,7 @@
     <ClInclude Include="Text.h" />
     <ClInclude Include="ThreeHitBlock.h" />
     <ClInclude Include="Vector.h" />
+    <ClInclude Include="Wall.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\XYZEngine\XYZEngine.vcxproj">

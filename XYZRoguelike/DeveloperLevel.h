@@ -1,21 +1,27 @@
 #pragma once
 
-#include <iostream>
-#include <array>
-#include "Scene.h"
 #include "Player.h"
-
-using namespace XYZEngine;
+#include "Enemy.h"
+#include "Wall.h"
+#include "Floor.h"
+#include "GameWorld.h"
+#include <memory>
+#include <vector>
 
 namespace XYZRoguelike
 {
-	class DeveloperLevel : public Scene
+	class DeveloperLevel
 	{
 	public:
-		void Start() override;
-		void Restart() override;
-		void Stop() override;
+		void Start();
+		void Restart();
+		void Stop();
+
 	private:
+		XYZEngine::GameObject* camera;
 		std::shared_ptr<Player> player;
+		std::shared_ptr<Enemy> enemy;
+		std::vector<std::shared_ptr<Wall>> walls;
+		std::vector<std::shared_ptr<Floor>> floors;
 	};
 }

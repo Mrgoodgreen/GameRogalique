@@ -23,11 +23,16 @@ namespace XYZEngine
 		int GetTextureMapElementsCount(const std::string& name) const;
 		void DeleteSharedTextureMap(const std::string& name);
 
+		void LoadSoundBuffer(const std::string& name, const std::string& sourcePath);
+		const sf::SoundBuffer* GetSoundBufferShared(const std::string& name) const;
+		void DeleteSharedSoundBuffer(const std::string& name);
+
 		void Clear();
 
 	private:
 		std::map<std::string, sf::Texture*> textures;
 		std::map<std::string, std::vector<sf::Texture*>> textureMaps;
+		std::map<std::string, sf::SoundBuffer*> soundBuffers;
 
 		ResourceSystem() {}
 		~ResourceSystem() {}
@@ -37,5 +42,6 @@ namespace XYZEngine
 
 		void DeleteAllTextures();
 		void DeleteAllTextureMaps();
+		void DeleteAllSoundBuffers();
 	};
 }

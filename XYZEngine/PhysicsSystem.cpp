@@ -49,34 +49,38 @@ namespace XYZEngine
 					{
 						float intersectionWidth = intersection.width;
 						float intersectionHeight = intersection.height;
-						Vector2Df intersectionPosition = { intersection.left - 0.5f * intersectionWidth, intersection.top - 0.5f * intersectionHeight };
 
-						Vector2Df aPosition = { colliders[i]->bounds.left,  colliders[i]->bounds.top };
+						Vector2Df aPosition = { colliders[i]->bounds.left + 0.5f * colliders[i]->bounds.width,  colliders[i]->bounds.top + 0.5f * colliders[i]->bounds.height };
+						Vector2Df bPosition = { colliders[j]->bounds.left + 0.5f * colliders[j]->bounds.width,  colliders[j]->bounds.top + 0.5f * colliders[j]->bounds.height };
 						auto aTransform = colliders[i]->GetGameObject()->GetComponent<TransformComponent>();
 
 						if (intersectionWidth > intersectionHeight)
 						{
-							if (intersectionPosition.y > aPosition.y)
+							if (aPosition.y < bPosition.y)
 							{
 								aTransform->MoveBy({ 0, -intersectionHeight });
+								colliders[i]->bounds.top -= intersectionHeight;
 								std::cout << "Top collision" << std::endl;
 							}
 							else
 							{
 								aTransform->MoveBy({ 0, intersectionHeight });
+								colliders[i]->bounds.top += intersectionHeight;
 								std::cout << "Down collision" << std::endl;
 							}
 						}
 						else
 						{
-							if (intersectionPosition.x > aPosition.x)
+							if (aPosition.x < bPosition.x)
 							{
 								aTransform->MoveBy({ -intersectionWidth, 0.f });
+								colliders[i]->bounds.left -= intersectionWidth;
 								std::cout << "Right collision" << std::endl;
 							}
 							else
 							{
 								aTransform->MoveBy({ intersectionWidth, 0.f });
+								colliders[i]->bounds.left += intersectionWidth;
 								std::cout << "Left collision" << std::endl;
 							}
 						}

@@ -3,6 +3,7 @@
 #include <iostream>
 #include "GameWorld.h"
 #include "RenderSystem.h"
+#include "AudioSystem.h"
 
 namespace XYZEngine
 {
@@ -47,6 +48,7 @@ namespace XYZEngine
 			GameWorld::Instance()->FixedUpdate(deltaTime);
 			GameWorld::Instance()->Render();
 			GameWorld::Instance()->LateUpdate();
+			AudioSystem::Instance()->Update();
 
 			RenderSystem::Instance()->GetMainWindow().display();
 		}

@@ -1,6 +1,7 @@
 #include "Player.h"
 #include <ResourceSystem.h>
 #include <SpriteColliderComponent.h>
+#include "PlayerMovementComponent.h"
 
 namespace XYZRoguelike
 {
@@ -12,15 +13,13 @@ namespace XYZRoguelike
 		playerRenderer->SetTexture(*XYZEngine::ResourceSystem::Instance()->GetTextureShared("ball"));
 		playerRenderer->SetPixelSize(32, 32);
 
-		auto playerCamera = gameObject->AddComponent<XYZEngine::CameraComponent>();
-		playerCamera->SetWindow(&XYZEngine::RenderSystem::Instance()->GetMainWindow());
-		playerCamera->SetBaseResolution(1280, 720);
-
 		auto playerInput = gameObject->AddComponent<XYZEngine::InputComponent>();
 
 		auto transform = gameObject->GetComponent<XYZEngine::TransformComponent>();
 
 		auto body = gameObject->AddComponent<XYZEngine::RigidbodyComponent>();
+
+		auto movement = gameObject->AddComponent<PlayerMovementComponent>();
 
 		auto collider = gameObject->AddComponent<XYZEngine::SpriteColliderComponent>();
 	}
