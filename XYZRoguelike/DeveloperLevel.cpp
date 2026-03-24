@@ -2,6 +2,7 @@
 #include "TransformComponent.h"
 #include "CameraComponent.h"
 #include "RenderSystem.h"
+#include "Logger.h"
 
 using namespace XYZEngine;
 
@@ -9,8 +10,12 @@ namespace XYZRoguelike
 {
 	void DeveloperLevel::Start()
 	{
+		Logger::Log(LogLevel::INFO, "DeveloperLevel starting...");
+
 		camera = GameWorld::Instance()->CreateGameObject("Camera");
 		auto camComp = camera->AddComponent<CameraComponent>();
+		XYZ_ASSERT(camComp != nullptr, "CameraComponent could not be added!");
+
 		camComp->SetWindow(&RenderSystem::Instance()->GetMainWindow());
 		camComp->SetBaseResolution(1280, 720);
 		camera->GetComponent<TransformComponent>()->SetWorldPosition(0.0f, 0.0f);
@@ -40,14 +45,18 @@ namespace XYZRoguelike
 
 		enemy = std::make_shared<Enemy>();
 		enemy->GetGameObject()->GetComponent<TransformComponent>()->SetWorldPosition(128.0f, 128.0f);
+
+		Logger::Log(LogLevel::TRACE, "DeveloperLevel start complete.");
 	}
 	void DeveloperLevel::Restart()
 	{
+		Logger::Log(LogLevel::INFO, "DeveloperLevel restarting...");
 		Stop();
 		Start();
 	}
 	void DeveloperLevel::Stop() 
 	{
+		Logger::Log(LogLevel::INFO, "DeveloperLevel stopping...");
 		GameWorld::Instance()->Clear();
 		walls.clear();
 		floors.clear();

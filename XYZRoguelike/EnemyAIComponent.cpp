@@ -1,5 +1,7 @@
 #include "EnemyAIComponent.h"
 #include <iostream>
+#include "HealthComponent.h"
+#include "Logger.h"
 
 namespace XYZRoguelike
 {
@@ -31,18 +33,40 @@ namespace XYZRoguelike
 
 				auto body = gameObject->GetComponent<XYZEngine::RigidbodyComponent>();
 
+				if (attackCooldown > 0.0f)
+					attackCooldown -= deltaTime;
+
 				if (length > 0 && length <= detectionRadius)
 				{
-					dx /= length;
-					dy /= length;
-
-					if (body)
+					if (length <= attackRange)
 					{
-						body->SetLinearVelocity({dx * speed, dy * speed});
+						// Attack player if in range
+						if (body) body->SetLinearVelocity({0.f, 0.f}); // Stop moving
+						
+						if (attackCooldown <= 0.0f)
+						{
+							auto healthComp = target->GetComponent<HealthComponent>();
+							if (healthComp && !healthComp->IsDead())
+							{
+								XYZEngine::Logger::Log(XYZEngine::LogLevel::INFO, "Enemy attacks Player!");
+								healthComp->TakeDamage(10.0f);
+								attackCooldown = 1.0f; // Attack once per second
+							}
+						}
 					}
 					else
 					{
-						myTransform->SetWorldPosition(pos.x + dx * speed * deltaTime, pos.y + dy * speed * deltaTime);
+						dx /= length;
+						dy /= length;
+
+						if (body)
+						{
+							body->SetLinearVelocity({dx * speed, dy * speed});
+						}
+						else
+						{
+							myTransform->SetWorldPosition(pos.x + dx * speed * deltaTime, pos.y + dy * speed * deltaTime);
+						}
 					}
 				}
 				else

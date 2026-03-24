@@ -1,0 +1,825 @@
+[INFO] Logger initialized.
+[TRACE] Engine constructor called.
+[INFO] Engine is running.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[FATAL] Assertion failed: Artificially created critical situation! Player pressed F9.
+[ERROR] Engine recovered from exception: Artificially created critical situation! Player pressed F9.
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Engine shut down smoothly.

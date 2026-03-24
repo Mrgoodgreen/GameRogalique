@@ -23,5 +23,7 @@ namespace XYZRoguelike
 		XYZEngine::GameObject* target = nullptr;
 		float speed = 0.14f;
 		float detectionRadius = 150.0f; // Chase within this distance
+		float attackRange = 40.0f;
+		float attackCooldown = 0.0f;
 	};
 }

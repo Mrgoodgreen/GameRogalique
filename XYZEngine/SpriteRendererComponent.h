@@ -19,6 +19,7 @@ namespace XYZEngine
 		const sf::Sprite* GetSprite() const;
 		void SetTexture(const sf::Texture& newTexture);
 		void SetPixelSize(int newWidth, int newHeight);
+		void SetColor(const sf::Color& color);
 
 		void FlipX(bool flip);
 		void FlipY(bool flip);

@@ -204,6 +204,7 @@
     <ClInclude Include="GameStateData.h" />
     <ClInclude Include="GameStateGameWin.h" />
     <ClInclude Include="Collidable.h" />
+    <ClInclude Include="HealthComponent.h" />
     <ClInclude Include="IDelayedAction.h" />
     <ClInclude Include="IObserver.h" />
     <ClInclude Include="LevelLoader.h" />

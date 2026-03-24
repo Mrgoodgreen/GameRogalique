@@ -2,6 +2,7 @@
 #include <ResourceSystem.h>
 #include <SpriteColliderComponent.h>
 #include "PlayerMovementComponent.h"
+#include "HealthComponent.h"
 
 namespace XYZRoguelike
 {
@@ -22,6 +23,9 @@ namespace XYZRoguelike
 		auto movement = gameObject->AddComponent<PlayerMovementComponent>();
 
 		auto collider = gameObject->AddComponent<XYZEngine::SpriteColliderComponent>();
+
+		auto health = gameObject->AddComponent<HealthComponent>();
+		health->Init(100.0f, 20.0f);
 	}
 
 	XYZEngine::GameObject* Player::GetGameObject()
