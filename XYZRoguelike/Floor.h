@@ -1,5 +1,7 @@
 #pragma once
 
+#include <string>
+
 namespace XYZEngine { class GameObject; }
 
 namespace XYZRoguelike
@@ -7,7 +9,7 @@ namespace XYZRoguelike
 	class Floor
 	{
 	public:
-		Floor();
+		Floor(const std::string& textureName = "floor");
 		XYZEngine::GameObject* GetGameObject();
 	private:
 		XYZEngine::GameObject* gameObject;

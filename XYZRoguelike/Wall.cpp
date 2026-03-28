@@ -7,12 +7,12 @@
 
 namespace XYZRoguelike
 {
-	Wall::Wall()
+	Wall::Wall(const std::string& textureName)
 	{
 		gameObject = XYZEngine::GameWorld::Instance()->CreateGameObject("Wall");
 		auto renderer = gameObject->AddComponent<XYZEngine::SpriteRendererComponent>();
 
-		renderer->SetTexture(*XYZEngine::ResourceSystem::Instance()->GetTextureShared("wall"));
+		renderer->SetTexture(*XYZEngine::ResourceSystem::Instance()->GetTextureShared(textureName));
 		renderer->SetPixelSize(32, 32);
 
 		auto transform = gameObject->GetComponent<XYZEngine::TransformComponent>();

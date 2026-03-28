@@ -12,6 +12,15 @@ namespace XYZRoguelike
 
 	void EnemyAIComponent::Update(float deltaTime)
 	{
+		auto myHealth = gameObject->GetComponent<HealthComponent>();
+		if (myHealth && myHealth->IsDead())
+		{
+			// Stop moving if dead
+			auto body = gameObject->GetComponent<XYZEngine::RigidbodyComponent>();
+			if (body) body->SetLinearVelocity({0.f, 0.f});
+			return;
+		}
+
 		if (!target)
 		{
 			target = XYZEngine::GameWorld::Instance()->FindGameObject("Player");

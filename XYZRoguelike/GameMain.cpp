@@ -18,6 +18,10 @@ int main()
 	XYZEngine::ResourceSystem::Instance()->LoadTexture("ball", "Resources/Textures/ball.png");
 	XYZEngine::ResourceSystem::Instance()->LoadTexture("wall", "Resources/Textures/wall.png");
 	XYZEngine::ResourceSystem::Instance()->LoadTexture("floor", "Resources/Textures/floor.png");
+	XYZEngine::ResourceSystem::Instance()->LoadTexture("wall2", "Resources/Textures/wall2.png"); // Using same texture for missing ones
+	XYZEngine::ResourceSystem::Instance()->LoadTexture("floor2", "Resources/Textures/floor2.png");
+	XYZEngine::ResourceSystem::Instance()->LoadTexture("wall3", "Resources/Textures/wall3.png");
+	XYZEngine::ResourceSystem::Instance()->LoadTexture("floor3", "Resources/Textures/floor3.png");
 
 	XYZEngine::AudioSystem::Instance()->PlayMusic("Resources/Audio/music.ogg", true);
 
