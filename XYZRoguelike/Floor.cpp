@@ -5,12 +5,12 @@
 
 namespace XYZRoguelike
 {
-	Floor::Floor()
+	Floor::Floor(const std::string& textureName)
 	{
 		gameObject = XYZEngine::GameWorld::Instance()->CreateGameObject("Floor");
 		auto renderer = gameObject->AddComponent<XYZEngine::SpriteRendererComponent>();
 
-		renderer->SetTexture(*XYZEngine::ResourceSystem::Instance()->GetTextureShared("floor"));
+		renderer->SetTexture(*XYZEngine::ResourceSystem::Instance()->GetTextureShared(textureName));
 		renderer->SetPixelSize(32, 32);
 
 		auto transform = gameObject->GetComponent<XYZEngine::TransformComponent>();

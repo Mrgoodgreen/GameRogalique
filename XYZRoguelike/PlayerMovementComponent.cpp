@@ -80,10 +80,8 @@ namespace XYZRoguelike
 						XYZEngine::Logger::Log(XYZEngine::LogLevel::INFO, "Player attacks Enemy!");
 						healthComp->TakeDamage(25.0f);
 						
-						if (healthComp->IsDead())
-						{
-							XYZEngine::GameWorld::Instance()->DestroyGameObject(obj);
-						}
+						// Do NOT destroy object here. Let Level or GameManagerComponent handle it,
+						// or handle it in a way that doesn't delete the pointer out from under GameManager.
 					}
 				}
 			}

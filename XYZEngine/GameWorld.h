@@ -22,6 +22,16 @@ namespace XYZEngine
 		void DestroyGameObject(GameObject* gameObject);
 		void Clear();
 
+		void MoveToTop(GameObject* gameObject)
+		{
+			auto it = std::find(gameObjects.begin(), gameObjects.end(), gameObject);
+			if (it != gameObjects.end())
+			{
+				gameObjects.erase(it);
+				gameObjects.push_back(gameObject);
+			}
+		}
+
 		void Print() const;
 	private:
 		GameWorld() {}

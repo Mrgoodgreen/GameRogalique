@@ -172,6 +172,8 @@
     <ClCompile Include="GameState.cpp" />
     <ClCompile Include="GameStateData.cpp" />
     <ClCompile Include="GameStateGameWin.cpp" />
+    <ClCompile Include="Level2.cpp" />
+    <ClCompile Include="Level3.cpp" />
     <ClCompile Include="LevelLoader.cpp" />
     <ClCompile Include="Platform.cpp" />
     <ClCompile Include="Player.cpp" />
@@ -195,10 +197,12 @@
     <ClInclude Include="Block.h" />
     <ClInclude Include="BlockFactory.h" />
     <ClInclude Include="Bonus.h" />
+    <ClInclude Include="CameraFollowComponent.h" />
     <ClInclude Include="DeveloperLevel.h" />
     <ClInclude Include="Enemy.h" />
     <ClInclude Include="EnemyAIComponent.h" />
     <ClInclude Include="Floor.h" />
+    <ClInclude Include="GameManagerComponent.h" />
     <ClInclude Include="GameObject.h" />
     <ClInclude Include="GameState.h" />
     <ClInclude Include="GameStateData.h" />
@@ -206,7 +210,10 @@
     <ClInclude Include="Collidable.h" />
     <ClInclude Include="HealthComponent.h" />
     <ClInclude Include="IDelayedAction.h" />
+    <ClInclude Include="ILevelSegment.h" />
     <ClInclude Include="IObserver.h" />
+    <ClInclude Include="Level2.h" />
+    <ClInclude Include="Level3.h" />
     <ClInclude Include="LevelLoader.h" />
     <ClInclude Include="Platform.h" />
     <ClInclude Include="Player.h" />

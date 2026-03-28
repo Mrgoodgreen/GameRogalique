@@ -823,3 +823,258 @@
 [INFO] Enemy took 25.000000 damage. HP left: 0.000000
 [WARNING] Enemy died!
 [INFO] Engine shut down smoothly.
+[INFO] Logger initialized.
+[TRACE] Engine constructor called.
+[INFO] Engine is running.
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Engine shut down smoothly.
+[INFO] Logger initialized.
+[TRACE] Engine constructor called.
+[INFO] Engine is running.
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 90.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 80.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 70.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 60.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 50.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 40.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 30.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 20.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 10.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 0.000000
+[WARNING] Player died!
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Logger initialized.
+[TRACE] Engine constructor called.
+[INFO] Engine is running.
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 90.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 80.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 70.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 60.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Engine shut down smoothly.
+[INFO] Logger initialized.
+[TRACE] Engine constructor called.
+[INFO] Engine is running.
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 90.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 80.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 70.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 60.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Engine shut down smoothly.
+[INFO] Logger initialized.
+[TRACE] Engine constructor called.
+[INFO] Engine is running.
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Engine shut down smoothly.
+[INFO] Logger initialized.
+[TRACE] Engine constructor called.
+[INFO] Engine is running.
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Engine shut down smoothly.
+[INFO] Logger initialized.
+[TRACE] Engine constructor called.
+[INFO] Engine is running.
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Engine shut down smoothly.
+[INFO] Logger initialized.
+[TRACE] Engine constructor called.
+[INFO] Engine is running.
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 90.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 80.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Engine shut down smoothly.
+[INFO] Logger initialized.
+[TRACE] Engine constructor called.
+[INFO] Engine is running.
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 100.000000
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 90.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 80.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 70.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 60.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Enemy attacks Player!
+[INFO] Player took 10.000000 damage. HP left: 50.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 25.000000
+[INFO] Player attacks Enemy!
+[INFO] Enemy took 25.000000 damage. HP left: 0.000000
+[WARNING] Enemy died!
+[INFO] Engine shut down smoothly.
