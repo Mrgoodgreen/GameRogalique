@@ -4,3 +4,4 @@
 *.vcxproj.filters
 *.vcxproj.user
 /XYZRoguelike/game_log.txt
+*.log
